@@ -1,0 +1,29 @@
+
+	body{
+		background-color: #030e1f;
+	}
+
+
+	#total-orders{
+		background-color: #df9101;
+	}
+
+
+	#orders-delivered{
+		background-color: #f04a09;
+	}
+
+	#orders-pending{
+		background-color: #00ff37;
+	}
+	h1,h2,h3,h4,h5,h6{
+		color: #fff;
+	}
+
+	#total-orders,#orders-delivered,#orders-pending{
+		color: #fff;
+	}
+
+	.hi{
+		max-height: fit-content;
+	}
